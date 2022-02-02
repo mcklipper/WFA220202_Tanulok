@@ -1,0 +1,74 @@
+05436623775;Lorschy Gyula;1993.09.25. 0:00:00;10A;4541;Nyírjákó;Kakukkhegyi út 93.
+06552477487;Tremmel Orsolya;1991.08.18. 0:00:00;12A;1221;Budapest;Bánk bán u. 61.
+10358548766;Kósa Réka;1991.08.22. 0:00:00;12A;1188;Budapest;Pázsit u. 51.
+12370577397;Nagy Árpád;1994.01.02. 0:00:00;9A;1173;Budapest;Ötszáznyolcadik u. 46.
+13105657126;Kádár Marianna;1993.01.26. 0:00:00;10A;1016;Budapest;Antal u. 2.
+14450313769;Balobás József;1994.01.01. 0:00:00;9A;1213;Budapest;Poprádi út 59.
+15268712628;Kovacs Dani;1990.11.03. 0:00:00;12A;1046;Budapest;Deák Feremc u. 5.
+15412684283;Csoboth Franciska;1992.07.13. 0:00:00;11A;1029;Budapest;Csurgó u. 7.
+15456452123;Lengyel Éva;1989.02.03. 0:00:00;12A;1042;Budapest;Virág u. 25.
+20777345752;Petz Krisztina;1993.07.20. 0:00:00;10A;1171;Budapest;Kisérõ u. 43.
+21013298571;Ferencz Emese;1992.05.22. 0:00:00;11A;8792;Zalavég;Kökény u. 124.
+23535450529;Tóth János;1991.11.03. 0:00:00;12A;3525;Miskolc;Feszty Árpád u. 75.
+24973456068;Rencz Rebeka;1992.07.12. 0:00:00;11A;5525;Füzesgyarmat;Fajd u. 95.
+25148273386;Elekes Gyõzõ;1991.06.21. 0:00:00;12A;1151;Budapest;Lucernás dûlõ 36.
+25384267671;Németh Laura;1993.07.07. 0:00:00;10A;1165;Budapest;Nagyvázsony u. 42.
+26210373242;Gyõri Zsuzsanna;1992.11.28. 0:00:00;10A;1031;Budapest;Dósa u. 8.
+26677376823;Molnár Ágnes;1995.05.03. 0:00:00;9A;6753;Szeged;Szomolya u. 104.
+27129722282;Rafic Ibolya;1995.03.18. 0:00:00;9A;1121;Budapest;Tearózsa u. 29.
+27936707425;Dékány György;1991.08.07. 0:00:00;11A;1039;Budapest;Tompa Mihály u. 12.
+30145570413;Katics Mária;1994.08.11. 0:00:00;9A;1204;Budapest;Bajza köz 56.
+30428578351;Lénárd János;1995.04.06. 0:00:00;9A;1201;Budapest;Attila u. 54.
+31473474652;Kálmán Judit;1992.01.21. 0:00:00;11A;7631;Pécs;Reménypuszta 114.
+31936383723;Züllõ Mariann;1992.01.25. 0:00:00;11A;1037;Budapest;Perényi út 10.
+36477414363;Zubek Erzsébet;1993.10.09. 0:00:00;10A;1023;Budapest;Harcsa u. 3.
+37242853485;Hódi Magdolna;1994.09.25. 0:00:00;9A;1068;Budapest;Szondy u. 17.
+43116446362;Vígh József;1994.07.07. 0:00:00;9A;1173;Budapest;Gyökér u. 45.
+43168517444;Szatmári György;1994.11.12. 0:00:00;9A;7634;Pécs;Ugar dûlõ 116.
+43414265186;Kovács Éva;1994.04.02. 0:00:00;9A;1182;Budapest;Bókay Árpád u. 48.
+45756747667;Bagó Mária;1992.08.14. 0:00:00;11A;1039;Budapest;Pais Dezsõ u. 12.
+46449955612;Gócza Andrea;1991.10.30. 0:00:00;12A;4032;Debrecen;Bólyai u. 88.
+47832341612;Papp László;1994.03.13. 0:00:00;9A;3508;Miskolc (Hejõcsaba);Kér u. 71.
+48476496525;Vinberg János;1991.06.24. 0:00:00;11A;8564;Ugod;Kanyar u. 122.
+48739819357;Csalay Klaudia;1993.07.19. 0:00:00;9A;1151;Budapest;Batthyány u. 36.
+49549234351;Kiss Gyula;1992.08.10. 0:00:00;10A;1142;Budapest;Kriván u. 34.
+51173033399;Deli Andrea;1992.08.15. 0:00:00;10A;1151;Budapest;Újmajor 36.
+52181682984;Gergely József;1992.04.27. 0:00:00;11A;3834;Detek;Pálffy tér 82.
+52646833315;Nagy Pál;1992.11.14. 0:00:00;11A;4033;Debrecen;Kenyér u. 89.
+52814723452;Kardos László;1995.01.22. 0:00:00;9A;1165;Budapest;Petúnia u. 42.
+54174757021;Molonár László;1991.08.06. 0:00:00;12A;1141;Budapest;Kapa u. 33.
+55538754711;Tamáska Emese;1992.07.21. 0:00:00;11A;1145;Budapest;Újvidék sétány 35.
+56871135651;Balogh Ádám;1988.09.24. 0:00:00;12A;1084;Budapest;Tömõ u. 14
+59586461764;Lengyel István;1993.11.27. 0:00:00;10A;3564;Hernádnémeti;Dékán u. 80.
+61134533733;Pál Miklós;1994.02.13. 0:00:00;9A;1135;Budapest;Palóc u. 32.
+64156880584;Turóczi Edit;1994.06.16. 0:00:00;9A;8627;Kötcse;Sorompó u. 123.
+64918631429;Bánvölgyi Zsuzsa;1994.11.25. 0:00:00;9A;7728;Somberek;Mázsa tér 118.
+65294043787;Molnár Ágnes;1995.05.03. 0:00:00;9A;6753;Szeged;Szomolya u. 104.
+65533707760;Halász László;1994.03.28. 0:00:00;9A;1112;Budapest;Telekes u. 24.
+65543421291;Szabó Balázs;1994.09.03. 0:00:00;9A;1158;Budapest;Rákospalotai körvasútsor 38.
+68841976402;Molnár Dóra;1992.06.20. 0:00:00;10A;7629;Pécs;Feitig Imre u. 112.
+70053457431;Knódel Gábor;1992.12.10. 0:00:00;10A;4027;Debrecen;Viola u. 84.
+71592819658;Nagy Judit;1995.05.12. 0:00:00;9A;3526;Miskolc;Aggteleki u. 75.
+72349163121;Meggyes Krisztina;1993.04.16. 0:00:00;10A;7636;Pécs;Neptunusz u. 117.
+72911734112;Juhász Enikõ;1994.06.26. 0:00:00;9A;1028;Budapest;Nedü u. 6.
+74836833039;Kaszás Katalin;1993.09.18. 0:00:00;10A;1193;Budapest;Vasút u. 53.
+75525781541;Hegyi Tamás;1991.10.25. 0:00:00;12A;1165;Budapest;Géza u. 42.
+85382223078;Vajda Katalin;1994.09.18. 0:00:00;9A;3533;Miskolc;Sportliget u. 79.
+87864523212;Geréb Ernõ;1990.03.14. 0:00:00;12A;1151;Budapest;Beller I. u.6
+89606909135;Tóth Zsuzsanna;1992.08.06. 0:00:00;11A;7634;Pécs;Makkos dûlõ 116.
+89847922603;Gregó Judit;1995.05.31. 0:00:00;9A;1221;Budapest;Hír u. 61.
+9336559822;Sándor Péter;1992.08.01. 0:00:00;10A;1081;Budapest;Szabadság u. 4.
+93446245754;Máté László;1995.03.19. 0:00:00;9A;1174;Budapest;Ötszázhetvennyolcadik u 47.
+9369258147;Kõnig Anna;1991.10.16. 0:00:00;11A;1144;Budaörs;Napsugár u. 23.
+98269251960;Kiss Gyöngyi;1992.07.28. 0:00:00;10A;6721;Szeged;Berlini krt. 97.
+9887936144;Kelemen Zita;1991.12.27. 0:00:00;11A;1033;Budapest;Petõfi 12/A.
+9925874136;Nagy Árpád;1992.02.23. 0:00:00;10A;1029;Budapest;Vörösmarty u. 14.
+9991147569;Kecskés Kálmán;1991.11.14. 0:00:00;11A;1038;Budapest;Kandó Kálmán u. 2.
+9991214147;Kiss Kornélia;1992.03.02. 0:00:00;10A;1121;Budapest;Kossuth u. 7
+9991214149;Ribánszki Balázs;1992.06.26. 0:00:00;10A;1021;Budapest;Rákóczi u. 18.
+9991215869;Fenner Barna;1991.09.11. 0:00:00;11A;1012;Budapest;Ibolya u. 34.
+9991789654;Szerendi Emília;1992.05.05. 0:00:00;11A;1256;Nagykovácsi;Tarló u. 123.
+9995854736;Magyar Attila;1991.12.12. 0:00:00;11A;1318;Szentendre;Melinda u. 15.
+23152814286;Király Ferenc;1994.07.30. 0:00:00;9A;8691;Balatonboglár;Vígkedvû Mihály u. 123.
+16604429764;Gyõri Máriacska;1993.10.14. 0:00:00;10A;7811;Bosta;Torockó u. 119.
+53256116864;Mikófalvi Sára;1993.01.22. 0:00:00;10A;3534;Miskolc;Boróka u. 79.
